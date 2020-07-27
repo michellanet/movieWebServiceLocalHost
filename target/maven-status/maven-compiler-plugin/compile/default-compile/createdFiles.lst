@@ -1,0 +1,13 @@
+com\mycompany\controllers\VideosJpaController.class
+com\mycompany\handlers\DisneyFilterHandler.class
+com\mycompany\controllers\exceptions\NonexistentEntityException.class
+com\mycompany\controllers\StarActorJpaController.class
+com\mycompany\movieserviceapp\resources\JavaEE8Resource.class
+com\mycompany\models\Admin.class
+com\mycompany\controllers\AdminJpaController.class
+com\mycompany\models\Videos.class
+com\mycompany\movieserviceapp\JAXRSConfiguration.class
+com\mycompany\controllers\exceptions\IllegalOrphanException.class
+com\mycompany\controllers\exceptions\PreexistingEntityException.class
+com\mycompany\models\StarActor.class
+com\mycompany\services\MovieAppOps.class
